@@ -1,5 +1,5 @@
 # Does LinkNYC affects 311 requests type and total counts? 
-## Description:
+## Description: This repository contains related to generation of analysis and visualizations related to 311 noise complaints.
 
 ## Table of Contents
 1. [Introduction](README.md#Problem)
@@ -12,9 +12,11 @@
 ├── 311_Calls
   └── Data
   └── Src
+        └── 311_type_changes.ipynb
+        └── LinkNYC_Usage_Correlation_Analysis.ipynb
+        └── LinkNYC_with_City_Services.ipynb
   └── README.md
 ```
-## Notes
 ### Libraries Used
 ```
 import numpy as np
@@ -31,16 +33,17 @@ from sodapy import Socrata
 Installation instructions:
 To install Geopandas, please refer to the following link [here](http://geopandas.org/install.html "Geopandas Installation Guide").  
 Fiona and Shapely is typically installed during Geopandas installation.  
-To install Sodapy, please refer to the following link [here](https://github.com/xmunoz/sodapy "Sodapy Installation Guide").
-All other packages can be installed using 
-
+Packages can be simply installed through `pip install <package-name>` or `conda install <package-name>`.
 
 ### Data Source
-311 Calls Data - Obtrained through SodaPy
-American Community Survey - 
-LinkNYC Kiosk data - Provided by Intersection Co
-
-### Output
+- 311 Calls Data - Obtrained through SodaPy
+- American Community Survey - Broadband access - Obtained through PolicyMap
+- NYC Open Data
+  - LinkNYC Kiosk Locations
+  - LinkNYC Kiosk Permits
+  - Spatial Data (shapefiles)
+- Intersection Co
+  - LinkNYC Kiosk data 
 
 ## Instructions
 The program is a jupyter notebook. If requirements for your system are all met, you can simply open the jupyter notebook and run it sequentially.  

@@ -11,8 +11,8 @@
 ```
 ├── EBT
   └── Data
-    └── food_stamps_exploration_cleaned.ipynb
   └── Src
+      └── food_stamps_exploration_cleaned.ipynb
   └── README.md
 ```
 ## Notes
@@ -42,8 +42,8 @@ Other packages can be simply installed through `pip install <package-name>` or `
   - LinkNYC Monthly usage
   - LinkNYC - Electronic Benefits Transfer
 
-
 ### Output
+- EDA results
 
 ## Instructions
 The program is a jupyter notebook. If requirements for your system are all met, you can simply open the jupyter notebook and run it sequentially, run all cells is not generally reccomended.  
