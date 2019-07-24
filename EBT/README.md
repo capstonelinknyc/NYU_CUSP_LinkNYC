@@ -16,6 +16,8 @@
   └── README.md
 ```
 ## Notes
+food_stamps_exploration_cleaned.ipynb - performs correlation analysis and clustering of neighborhoods based on percentage of household receiving food stamps and Electronic Benefits Transfer data from LinkNYC kiosks. 
+
 ### Libraries Used
 ```
 try:

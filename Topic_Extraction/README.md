@@ -16,6 +16,8 @@
   └── README.md
 ```
 ## Notes
+Related_article.ipynb - performs scraping of web articles related to Intersection Co. It also performs Topic modeling with LDA and generates output as well as word cloud.
+
 ### Libraries Used
 ```
 import pandas as pd

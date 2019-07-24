@@ -9,21 +9,17 @@ Broadband access is not just a necessity, but also a human right recently recogn
 * Timur Mukhtarov
 * Manu Pathak
 
-## Table of Contents
-1. [Introduction](README.md#Problem)
-1. [Folder Structure](README.md#Folder_Structure)
-1. [Instructions](README.md#Instructions)
-1. [Notes](README.md#Notes)
 
 ## Folder Structure
 Each folder will have specifc descriptions and instructions to allow replication of our work, feel free to navigate to these folders.
+* [Topic Extraction](./Topic_Extraction)
+* [Exploratory Data Analysis](./EDA)
+* [Electronic Benefits Transfer](./EBT)
+* [311 Calls](./311_Calls)
+
 ```
  ├── README.md
  ├── Topic_Extraction
- │   └── Data
- │   └── Src
- │   └── README.md
- ├── Demographics
  │   └── Data
  │   └── Src
  │   └── README.md
