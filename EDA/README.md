@@ -22,11 +22,11 @@
   └── README.md
 ```
 ## Notes
-census_age.ipynb - Generate Age Demographic statistics and visualizations
-census_and_linknyc_usage_data_merging_and_spatial_joins.ipynb - Prepares data for Tableau maps and other visualizations
-correlation_demographics.ipynb - Checks correlation of LinkNYC EBT calls and income demographics
-Merge_Installed_and_Proposed_links.ipynb - Prepares data join together LinkNYC proposed kiosk locations and current LinkNYC kiosk locations
-merger_file.ipynb - Generate Income correlation heatmap-matrix and Visualizations
+census_age.ipynb - Generate Age Demographic statistics and visualizations  
+census_and_linknyc_usage_data_merging_and_spatial_joins.ipynb - Prepares data for Tableau maps and other visualizations  
+correlation_demographics.ipynb - Checks correlation of LinkNYC EBT calls and income demographics  
+Merge_Installed_and_Proposed_links.ipynb - Prepares data join together LinkNYC proposed kiosk locations and current LinkNYC kiosk locations  
+merger_file.ipynb - Generate Income correlation heatmap-matrix and Visualizations  
 
 ### Libraries Used
 ```

@@ -20,9 +20,9 @@
   └── README.md
 ```
 ## Notes
-311_type_changes.ipynb - Check on how 311 related complaints changed with the introduction of LinkNYC Kiosk based on analysis of keywords
-LinkNYC_Usage_Correlation_Analysis.ipynb - Check on correlation of 311 and broadband access with LinkNYC usage
-LinkNYC_with_City_Services.ipynb - Further analysis on how 311 changed with the introduction of LinkNYC Kiosks, performed hypothesis testing
+311_type_changes.ipynb - Check on how 311 related complaints changed with the introduction of LinkNYC Kiosk based on analysis of keywords  
+LinkNYC_Usage_Correlation_Analysis.ipynb - Check on correlation of 311 and broadband access with LinkNYC usage  
+LinkNYC_with_City_Services.ipynb - Further analysis on how 311 changed with the introduction of LinkNYC Kiosks, performed hypothesis testing  
 
 ### Libraries Used
 ```
