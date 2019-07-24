@@ -11,7 +11,7 @@ Broadband access is not just a necessity, but also a human right recently recogn
 
 
 ## Folder Structure
-Each folder will have specifc descriptions and instructions to allow replication of our work, feel free to navigate to these folders.
+Each folder has specifc descriptions and instructions to allow replication of our work, feel free to navigate to these folders.
 * [Topic Extraction](./Topic_Extraction)
 * [Exploratory Data Analysis](./EDA)
 * [Electronic Benefits Transfer](./EBT)
