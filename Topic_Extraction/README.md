@@ -5,6 +5,8 @@
 1. [Introduction](README.md#Problem)
 1. [Folder Structure](README.md#Folder_Structure)
 1. [Notes](README.md#Notes)
+1. [Libraries Used](README.md#Libraries_Used)
+1. [Data Sources](README.md#Data_Sources)
 1. [Instructions](README.md#Instructions)
 
 ## Folder Structure
